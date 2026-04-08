@@ -8,7 +8,7 @@ Bem-vinda(o) ao meu portfólio! Aqui compartilho minhas habilidades, formação 
 
 ## 👩‍💼 Sobre mim
 Analista de Tecnologia da Informação com experiência em suporte técnico N2/N3, infraestrutura e redes.  
-Atuo em ambientes de alta disponibilidade, com foco em troubleshooting avançado, monitoramento, gestão de operação e filas, além da resolução de incidentes críticos.  
+Atuo em ambientes de alta disponibilidade, com foco em troubleshooting avançado, monitoramento, gestão de operação e filas, além da resolução de incidentes críticos.
 
 ---
 
@@ -70,10 +70,10 @@ Atuo em ambientes de alta disponibilidade, com foco em troubleshooting avançado
 
 ## 📬 Contato
 
-[📧 Email](mailto:ariane19908@gmail.com)  
-[🔗 LinkedIn](https://www.linkedin.com/in/ariane-souza-b680a9276/)  
-[🐙 GitHub](https://github.com/ariane19908-dev)  
-[💬 WhatsApp](https://wa.me/5511982378800)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ariane19908@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariane-souza-b680a9276/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ariane19908-dev)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511982378800)
 
 ---
 
