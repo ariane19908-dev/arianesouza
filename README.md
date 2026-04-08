@@ -53,6 +53,7 @@ Evoluir na área de tecnologia, com foco em suporte, análise de sistemas e moni
 ---
 
 ## 📫 Contato
-
-📍 São Paulo - SP  
-📧 seuemail@email.com  
+- Email: ariane19908@gmail.com ✉️  
+- LinkedIn: [Ariane Souza](https://www.linkedin.com/in/ariane-souza-b680a9276?utm_source=share_via&utm_content=profile&utm_medium=member_ios) 🔗  
+- GitHub: [ariane19908-dev](https://github.com/ariane19908-dev) 🖥️  
+- WhatsApp: +55 11 98237-8800 📱
