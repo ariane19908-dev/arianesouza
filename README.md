@@ -1,59 +1,50 @@
-<h1 align="center">👩‍💻 Ariane de Souza Oliveira</h1>
+# Ariane Souza Oliveira 💻
 
-<p align="center">
-Analista de Suporte | Infraestrutura | Monitoramento
-</p>
+Bem-vinda(o) ao meu portfólio! Aqui compartilho minhas habilidades, experiência e formas de contato.
 
 ---
 
-## 🚀 Sobre mim
-
-Profissional de TI com experiência em suporte técnico, monitoramento e análise de incidentes, atuando na sustentação de ambientes críticos.
-
-Tenho perfil analítico, foco em troubleshooting e resolução de problemas, garantindo estabilidade e continuidade dos serviços.
+## Sobre mim 🌟
+Sou desenvolvedora e profissional de TI apaixonada por tecnologia e soluções criativas.  
+Busco aprendizado contínuo e desafios que me permitam evoluir profissionalmente.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Habilidades 🛠️
 
-- Zabbix  
-- SolarWinds  
-- AnyDesk  
-- Monitoramento de ambientes  
-- Análise de logs  
-- Troubleshooting  
-- ITIL  
-- SQL (básico)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## 📊 Experiência Prática
-
-### 🔧 Análise de Incidentes
-- Diagnóstico de falhas em WebService, APIs e SLT  
-- Correção remota de indisponibilidades  
-- Atuação em ambientes críticos  
-
-### 📡 Monitoramento
-- Acompanhamento via Zabbix e SolarWinds  
-- Identificação de falsos positivos  
-- Análise de XML/JSON  
-
-### 🖥️ Suporte Técnico
-- Atendimento N1, N2 e N3  
-- Acesso remoto para troubleshooting  
-- Apoio a equipes de campo  
+- Ferramentas de monitoramento: Zabbix, Solarwinds  
+- Gestão e operação: Monitoramento de sistemas, gestão de filas e suporte técnico  
+- Soft Skills: Comunicação, proatividade, trabalho em equipe  
 
 ---
 
-## 🎯 Objetivo
+## Experiência 💼
 
-Evoluir na área de tecnologia, com foco em suporte, análise de sistemas e monitoramento.
+### Analista de Suporte Jr. | Nava
+**Período:** Janeiro de 2023 – Maio de 2025  
+- Suporte técnico de primeiro e segundo nível  
+- Atendimento focado na satisfação do cliente  
+- Monitoramento de operações e filas  
+
+### Projetos Pessoais
+- Desenvolvimento de portfólio pessoal em GitHub  
+- Estudos e projetos de automação e integração de sistemas
 
 ---
 
-## 📫 Contato
-- Email: ariane19908@gmail.com ✉️  
-- LinkedIn: [Ariane Souza](https://www.linkedin.com/in/ariane-souza-b680a9276?utm_source=share_via&utm_content=profile&utm_medium=member_ios) 🔗  
-- GitHub: [ariane19908-dev](https://github.com/ariane19908-dev) 🖥️  
-- WhatsApp: +55 11 98237-8800 📱
+## Contato 📬
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ariane19908@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariane-souza-b680a9276/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ariane19908-dev)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511982378800)
+
+---
+
+> Obrigada por visitar meu portfólio! 🚀
