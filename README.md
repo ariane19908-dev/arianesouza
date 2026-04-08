@@ -1,4 +1,4 @@
-# Ariane Souza Oliveira 💻
+# Ariane de Souza Oliveira 💻
 
 Bem-vinda(o) ao meu portfólio! Aqui compartilho minhas habilidades, experiência e formas de contato.
 
@@ -18,9 +18,9 @@ Busco aprendizado contínuo e desafios que me permitam evoluir profissionalmente
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- Ferramentas de monitoramento: Zabbix, Solarwinds  
-- Gestão e operação: Monitoramento de sistemas, gestão de filas e suporte técnico  
-- Soft Skills: Comunicação, proatividade, trabalho em equipe  
+- **Ferramentas de monitoramento:** Zabbix, Solarwinds  
+- **Gestão e operação:** Monitoramento de sistemas, gestão de filas e suporte técnico  
+- **Soft Skills:** Comunicação, proatividade, trabalho em equipe  
 
 ---
 
@@ -34,7 +34,7 @@ Busco aprendizado contínuo e desafios que me permitam evoluir profissionalmente
 
 ### Projetos Pessoais
 - Desenvolvimento de portfólio pessoal em GitHub  
-- Estudos e projetos de automação e integração de sistemas
+- Estudos e projetos de automação e integração de sistemas  
 
 ---
 
@@ -44,6 +44,13 @@ Busco aprendizado contínuo e desafios que me permitam evoluir profissionalmente
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariane-souza-b680a9276/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ariane19908-dev)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511982378800)
+
+---
+
+## 💡 Extras visuais
+- Use **divisores (`---`)** para separar seções.  
+- **Emojis** ajudam a destacar títulos e tópicos.  
+- **Badges coloridos** tornam o portfólio mais chamativo, mesmo no modo escuro.
 
 ---
 
